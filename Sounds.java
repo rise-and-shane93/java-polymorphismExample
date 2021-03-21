@@ -1,0 +1,3 @@
+interface Sounds {
+    void playSound();
+}

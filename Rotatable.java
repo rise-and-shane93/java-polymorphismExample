@@ -1,0 +1,3 @@
+interface Rotatable {
+    void rotateObject();
+}
